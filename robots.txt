@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ai4sciencetalks.github.io/ai4sciencetalks.github.io/sitemap.xml
