@@ -36,18 +36,23 @@ layout: default
             {{ content }}
           </div>
 
+          <p style="margin-bottom:1.5cm;">
+            <!-- added some empty space; @kmario23 -->
+          </p>
+
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
-          {% if page.selected_papers -%}
+          <!-- {% if page.selected_papers -%} -->
             <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
+            <!-- {%- include selected_papers.html %} -->
+          <!-- {%- endif %} -->
 
-          <div class="clearfix">
+           <!-- commented by @kmario23 -->
+          <!-- <div class="clearfix">
             {{ content }}
-          </div>
+          </div> -->
 
           {%- if page.social %}
           <!-- Social -->
