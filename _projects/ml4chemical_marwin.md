@@ -16,11 +16,10 @@ category: ml-chemistry
 </div>
 
 
-
-
-
 <hr>
-**Title:   Machine Learning for Chemical Synthesis Planning and Molecular Design**
+
+**Topic:   Machine Learning for Chemical Synthesis Planning and Molecular Design**
+
 
 <hr>
 
@@ -31,13 +30,16 @@ category: ml-chemistry
 
 |                     |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| **Slides**          | **TBA**                                                      |
-| **Paper**           | **TBA**                                                      |
+| **Topic**           | ***Machine Learning for Chemical Synthesis Planning and Molecular Design*** |
 |                     |                                                              |
-| **Zoom**            | [https://neclab.zoom.us/j/4767055883?pwd=b1QvbGEvVVpraWY0cGR3NGJHMUlqdz09](https://neclab.zoom.us/j/4767055883?pwd=b1QvbGEvVVpraWY0cGR3NGJHMUlqdz09)<br/><br/>Meeting ID: 476 705 5883<br/>Passcode: 728045 |
+| **Slides**          | **TBA**                                                      |
+|                     |                                                              |
+| **Zoom**            | [https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
+|                     |                                                              |
 | **Video Recording** | **TBA**                                                      |
 
 <hr>
+
 **Speaker:**
 
 [Dr. Marwin Segler](https://www.microsoft.com/en-us/research/people/marwinsegler/) is a team lead at Microsoft Research AI4Science, working at the intersection of chemistry, drug discovery, and machine learning. Prior, he was at BenevolentAI (London), and received his PhD in chemistry from the University of Muenster. Marwin pioneered modern machine learning for molecular design, and chemical synthesis planning. His research interests are in computer-assisted scientific discovery, algorithm development in computational chemistry and AI, and applications in organic synthesis and drug discovery.

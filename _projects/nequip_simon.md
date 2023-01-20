@@ -14,10 +14,12 @@ category: md-simulations
         {% include figure.html path="assets/img/talks/nequip.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <hr>
 
-**Title:   E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials**
+**Topic:   [E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials](https://arxiv.org/abs/2101.03164)**
+
+
+
 
 <hr>
 
@@ -28,10 +30,12 @@ category: md-simulations
 
 |                     |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| **Slides**          | **TBA**                                                      |
-| **Paper**           | [*E(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials*](https://arxiv.org/abs/2101.03164) |
+| **Topic**           | ***Equivariant Interatomic Potentials***                     |
 |                     |                                                              |
-| **Zoom**            | [https://neclab.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://neclab.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09)<br/>Meeting ID: 852 1630 9906<br/>Passcode: 753859 |
+| **Slides**          | [https://drive.google.com/file/d/1u6xojobD9GKb8ZT4p3sJU1rY_RfpmOy4/view](https://drive.google.com/file/d/1u6xojobD9GKb8ZT4p3sJU1rY_RfpmOy4/view) |
+|                     |                                                              |
+| **Zoom**            | [https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
+|                     |                                                              |
 | **Video Recording** | **TBA**                                                      |
 
 <hr>
