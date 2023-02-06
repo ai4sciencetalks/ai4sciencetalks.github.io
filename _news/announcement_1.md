@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 
-date: 2023-01-19 
+date: 2023-02-20 
 inline: true
 ---
 
-[Simon Batzner will give a presentation on NequIP](projects/nequip_simon/) :atom_symbol:
+[Benjamin Holzschuh will talk about Score Matching via Differentiable Physics](projects/diffusion_diff_physics_benjamin/) :star: :fire:
