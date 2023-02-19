@@ -54,7 +54,14 @@ layout: default
             {{ content }}
           </div> -->
 
-          {%- if page.social %}
+          <!-- added by @kmario23 for "organizers"-->
+          <!-- <div class="clearfix">
+            {{ content }}
+          </div> -->
+
+          <hr/>
+
+        {%- if page.social %}
           <!-- Social -->
           <div class="social">
             <div class="contact-icons">
@@ -65,7 +72,8 @@ layout: default
               {{ site.contact_note }}
             </div> -->
           </div>
-          {%- endif %}
+        {%- endif %}
+
         </article>
 
 </div>

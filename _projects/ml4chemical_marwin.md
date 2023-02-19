@@ -34,6 +34,8 @@ category: ml-chemistry
 |                     |                                                              |
 | **Slides**          | **TBA**                                                      |
 |                     |                                                              |
+| **When**            | **TBA**                                                      |
+|                     |                                                              |
 | **Zoom**            | [https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
 |                     |                                                              |
 | **Video Recording** | **TBA**                                                      |

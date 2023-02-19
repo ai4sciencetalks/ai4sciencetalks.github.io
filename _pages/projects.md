@@ -5,7 +5,7 @@ permalink: /talks/
 description: A growing collection of invited talks on Machine Learning for Science.
 nav: true
 nav_order: 1
-display_categories: [md-simulations, ml-chemistry, pde]
+display_categories: [md-simulations, ml-chemistry, pde, transfer-learning, simulations]
 horizontal: false
 ---
 

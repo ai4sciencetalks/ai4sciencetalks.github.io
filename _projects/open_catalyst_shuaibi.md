@@ -17,10 +17,10 @@ category: ml-chemistry
 </div>
 
 
-
-
 <hr>
+
 **Topic**:  **Open Catalyst: Advancements in AI Accelerated Catalyst Discovery**
+
 
 <hr>
 
@@ -46,6 +46,8 @@ The field of computational chemistry has seen a surge of new developments over t
 | **Video Recording** | **TBA**                                                      |
 
 <hr>
+
 **Speaker:**
 
-Dr. Muhammed Shuaibi is a Research Engineer at FAIR, Meta AI where he works on AI applications for Chemistry, namely the Open Catalyst Project. Muhammed completed his Ph.D. in Chemical Engineering at Carnegie Mellon University under the supervision of Dr. Zachary Ulissi, where he worked on machine learning applications to catalysis, including active learning, graph neural networks, and large-scale datasets. Prior to his Ph.D. Muhammed worked for the U.S. Environmental Protection Agency (EPA) where he helped mitigate air and radiation pollution. His current focus lies at the intersection of bridging the gap between computational chemistry, ML/AI, and experimental results.
+
+[Dr. Muhammed Shuaibi](https://mshuaibii.github.io) is a Research Engineer at FAIR, Meta AI where he works on AI applications for Chemistry, namely the Open Catalyst Project. He completed his Ph.D. in Chemical Engineering at Carnegie Mellon University under the supervision of Dr. Zachary Ulissi, where he worked on machine learning applications to catalysis, including active learning, graph neural networks, and large-scale datasets. Prior to his Ph.D., he worked for the U.S. Environmental Protection Agency (EPA) where he helped mitigate air and radiation pollution. His current focus lies at the intersection of bridging the gap between computational chemistry, ML/AI, and experimental results.

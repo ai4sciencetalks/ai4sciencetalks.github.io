@@ -7,7 +7,7 @@
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 5 %}style="max-height: 10vw"{% endif %}>
               <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%}
+              {%- assign news = site.news -%}
               {% if site.news_limit %}
               {% assign news_limit = site.news_limit %}
               {% else %}

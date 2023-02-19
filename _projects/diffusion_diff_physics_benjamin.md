@@ -15,11 +15,10 @@ category: simulations, inverse problem, pde
         {% include figure.html path="assets/img/talks/score-match-diff-physics.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-
 <hr>
+
 **Topic**:  [**Score Matching via Differentiable Physics**](https://arxiv.org/abs/2301.10250)
+
 
 <hr>
 
