@@ -4,7 +4,7 @@ title: Differentiable Physics
 description: by Benjamin Holzschuh from TU Munich
 img: assets/img/talks/score-match-diff-physics.png
 importance: 1
-category: simulations, inverse problem, pde
+category: simulations
 
 ---
 
@@ -33,7 +33,7 @@ Diffusion models based on stochastic differential equations (SDEs) gradually per
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | [***Score Matching via Differentiable Physics***](https://arxiv.org/abs/2301.10250) |
 |                     |                                                              |
-| **Slides**          | **TBA**                                                      |
+| **Slides**          | https://drive.google.com/file/d/16mu1Sn51cx6iOSKDfXD1UFTjkkdExarS/view |
 |                     |                                                              |
 | **When**            | **20.02.2023, 15:00 - 16:30 (Central European Time)**        |
 |                     |                                                              |
