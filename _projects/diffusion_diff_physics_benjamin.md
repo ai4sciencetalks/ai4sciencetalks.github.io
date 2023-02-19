@@ -33,7 +33,7 @@ Diffusion models based on stochastic differential equations (SDEs) gradually per
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | [***Score Matching via Differentiable Physics***](https://arxiv.org/abs/2301.10250) |
 |                     |                                                              |
-| **Slides**          | https://drive.google.com/file/d/16mu1Sn51cx6iOSKDfXD1UFTjkkdExarS/view |
+| **Slides**          | [https://drive.google.com/file/d/16mu1Sn51cx6iOSKDfXD1UFTjkkdExarS/view](https://drive.google.com/file/d/16mu1Sn51cx6iOSKDfXD1UFTjkkdExarS/view) |
 |                     |                                                              |
 | **When**            | **20.02.2023, 15:00 - 16:30 (Central European Time)**        |
 |                     |                                                              |
