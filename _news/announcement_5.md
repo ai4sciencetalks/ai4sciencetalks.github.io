@@ -5,4 +5,4 @@ date: 2023-03-20
 inline: true
 ---
 
-[Junhong Shen will talk about how ORCA works and its capabilities for Solving PDEs](projects/orca_pde_junhong/) :dash: :wavy_dash:
+[Junhong Shen will talk about "Cross-Modal Fine-Tuning (ORCA)" and its capabilities for solving PDEs](projects/orca_pde_junhong/) :dash: :wavy_dash:

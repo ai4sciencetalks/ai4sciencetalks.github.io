@@ -46,6 +46,6 @@ Fine-tuning large-scale pretrained models has led to tremendous progress in well
 
 **Speaker:**
 
-[Junhong Shen](https://sjunhongshen.github.io) is a second-year Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU, advised by [Ameet Talwalkar](http://www.cs.cmu.edu/~atalwalk/). Her current research focuses on automated machine learning (AutoML), in particular building practical and easily accessible model development tools for diverse applications in real life.
+[**Junhong Shen**](https://sjunhongshen.github.io) is a second-year Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU, advised by [Ameet Talwalkar](http://www.cs.cmu.edu/~atalwalk/). Her current research focuses on automated machine learning (AutoML), in particular building practical and easily accessible model development tools for diverse applications in real life.
 
 She obtained her B.S. in Mathematics of Computation at UCLA, where she was fortunate to work with [Lin Yang](http://drlinyang.net/) on sample-efficient reinforcement learning. She also studied multi-agent RL and Theory of Mind, advised by [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/).
