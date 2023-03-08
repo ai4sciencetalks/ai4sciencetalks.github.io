@@ -35,7 +35,7 @@ Fine-tuning large-scale pretrained models has led to tremendous progress in well
 |                     |                                                              |
 | **Slides**          | **TBA**                                                      |
 |                     |                                                              |
-| **When**            | **20.03.2023, 15:00 - 16:00 (CET) / 9:00 - 10:00 (ET)**      |
+| **When**            | **20.03.2023, 15:00 - 16:00 (CET) / 10:00 - 11:00 (EDT)**    |
 |                     |                                                              |
 | **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
 |                     |                                                              |

@@ -42,7 +42,7 @@ The second work \[2\] encodes spatial information through neural network weights
 |                     |                                                              |
 | **Slides**          | **TBA**                                                      |
 |                     |                                                              |
-| **When**            | **13.03.2023, 15:00 - 16:30 (Central European Time) / 09:00 (EST)** |
+| **When**            | **13.03.2023, 15:00 - 16:30 (Central European Time) / 10:00 (EDT)** |
 |                     |                                                              |
 | **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
 |                     |                                                              |
