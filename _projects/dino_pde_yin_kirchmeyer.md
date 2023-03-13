@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Continuous PDE Dynamics Forecasting with Implicit Neural Representations
+title: Continuous PDE Dynamics Forecasting with Neural Fields
 description: by Yuan Yin (Sorbonne Université) and Matthieu Kirchmeyer(Criteo AI Lab & Sorbonne Université)
 img: assets/img/talks/dino-pde-yin-kirchmeyer.png
 importance: 1
