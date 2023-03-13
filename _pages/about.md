@@ -6,7 +6,7 @@ subtitle: A Series of Invited Talks on Recent Advances in ML for Science.
 
 profile:
   align: left
-  image: chaotic-sim.gif
+  image: fluid-flow.gif
   image_circular: false # crops the image to make it circular
   address: >
 
