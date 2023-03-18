@@ -33,7 +33,7 @@ Fine-tuning large-scale pretrained models has led to tremendous progress in well
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | [**Cross-Modal Fine-Tuning: Align then Refine**](https://arxiv.org/abs/2302.05738) |
 |                     |                                                              |
-| **Slides**          | **TBA**                                                      |
+| **Slides**          | [https://docs.google.com/presentation/d/1PVB8Rbikrv80qMUtS4Obbj-58rGjLfDFmsNmGLuPrQU](https://docs.google.com/presentation/d/1PVB8Rbikrv80qMUtS4Obbj-58rGjLfDFmsNmGLuPrQU) |
 |                     |                                                              |
 | **When**            | **20.03.2023, 15:00 - 16:00 (CET) / 10:00 - 11:00 (EDT)**    |
 |                     |                                                              |
