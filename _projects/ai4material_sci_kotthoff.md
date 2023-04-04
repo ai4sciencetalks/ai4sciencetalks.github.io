@@ -37,7 +37,7 @@ AI and machine learning have advanced the state of the art in many application d
 |                     |                                                              |
 | **When**            | **05.04.2023, 17:00 - 18:30 (Central European Time) / 12:00 (EDT)** |
 |                     |                                                              |
-| **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
+| **Where**           | [**https://neclab.zoom.us/j/3560554907?pwd=ZzgwbUFLQS96OHFUKzlWRzFSZCtiZz09**](https://neclab.zoom.us/j/3560554907?pwd=ZzgwbUFLQS96OHFUKzlWRzFSZCtiZz09) |
 |                     |                                                              |
 | **Video Recording** | **TBA**                                                      |
 

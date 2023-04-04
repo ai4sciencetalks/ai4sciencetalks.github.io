@@ -33,7 +33,7 @@ Although very successfully used in machine learning, convolution based neural ne
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | **[Convolutional Neural Operators for Solving PDEs](https://arxiv.org/abs/2302.01178)** |
 |                     |                                                              |
-| **Slides**          | **TBA**                                                      |
+| **Slides**          | **[https://drive.google.com/file/d/1uBa-qmOkJMYjJgu1sE8TD8YxnudbN-y4](https://drive.google.com/file/d/1uBa-qmOkJMYjJgu1sE8TD8YxnudbN-y4)** |
 |                     |                                                              |
 | **When**            | **03.04.2023, 15:00 - 16:30 (Central European Time) / 10:00 (EDT)** |
 |                     |                                                              |
