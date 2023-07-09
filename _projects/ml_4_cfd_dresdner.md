@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning for Computational Fluid Dynamics
+title: Machine Learning for CFD
 description: by Gideon Dresdner (ETH Zurich)
 img: assets/img/talks/learn-correct-spectral-cfd-dresdner.png
 importance: 1
@@ -16,8 +16,7 @@ category: pde
     </div>
 </div>
 <hr>
-
-**Topic**:  **Machine Learning for Computational Fluid Dynamics**
+**Topic**:  [**Machine Learning for Computational Fluid Dynamics**](https://arxiv.org/abs/2207.00556)
 
 
 <hr>
@@ -31,7 +30,7 @@ Despite their ubiquity throughout science and engineering, only a handful of par
 
 |                     |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| **Topic**           | **Machine Learning for CFD**                                 |
+| **Topic**           | [**Learning to correct spectral methods for simulating turbulent flows**](https://arxiv.org/abs/2207.00556) |
 |                     |                                                              |
 | **Slides**          | **TBA**                                                      |
 |                     |                                                              |
