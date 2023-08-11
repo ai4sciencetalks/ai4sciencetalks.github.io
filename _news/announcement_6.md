@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 
-date: 2023-07-10 
+date: 2023-08-28 
 inline: true
 ---
 
-[Gideon Dresdner will give a talk on Machine Learning for Computational Fluid Dynamics](projects/ml_4_cfd_dresdner/) :dash: :ocean:
+[Phillip Lippe will talk about PDE Refiner for modelling long rollouts in Neural PDE Solvers](projects/pderefiner_phillip/) :dash: :ocean:
 
