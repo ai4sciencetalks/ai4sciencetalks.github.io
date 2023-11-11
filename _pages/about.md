@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: A Series of Invited Talks on Recent Advances in ML for Science.
+subtitle: A Series of Invited Talks on Recent Advances in ML for Science and Simulations.
 
 profile:
   align: left
