@@ -38,7 +38,7 @@ Despite their widespread success in various domains, Transformer networks have y
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | [**Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**](https://arxiv.org/abs/2206.11990) |
 |                     |                                                              |
-| **Slides**          | **TBA**                                                      |
+| **Slides**          | **[https://drive.google.com/file/d/1KRjhgdeq_smyuSjAexs1nEIt_v1dnWER/view](https://drive.google.com/file/d/1KRjhgdeq_smyuSjAexs1nEIt_v1dnWER/view)** |
 |                     |                                                              |
 | **When**            | **23.10.23, 15:00 - 16:15 (CET) / 09:00 - 10:15 (EDT)**      |
 |                     |                                                              |
