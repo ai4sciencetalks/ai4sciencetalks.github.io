@@ -34,7 +34,9 @@ category: md-simulations
 |                     |                                                              |
 | **Slides**          | TBA                                                          |
 |                     |                                                              |
-| **Zoom**            | [https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
+| **When**            | **12.02.24, 15:00 - 16:15 (CET) / 14:00 - 15:15 (GMT) / 09:00 - 10:15 (ET) / 07:00 - 08:15 (MT)** |
+|                     |                                                              |
+| **Where**           | [https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
 |                     |                                                              |
 | **Video Recording** | **TBA**                                                      |
 
