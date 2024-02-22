@@ -38,7 +38,7 @@ Inverse design, where we seek to design input variables in order to optimize an 
 | ------------------- | ------------------------------------------------------------ |
 | **Topic**           | [**Compositional Generative Inverse Design**](https://arxiv.org/abs/2401.13171) |
 |                     |                                                              |
-| **Slides**          | **TBA**                                                      |
+| **Slides**          | **[https://drive.google.com/file/d/1nLPPtCoSFQJn-ZqofDjPwCiWwATsKPIY](https://drive.google.com/file/d/1nLPPtCoSFQJn-ZqofDjPwCiWwATsKPIY)** |
 |                     |                                                              |
 | **When**            | **19.02.24, 15:00 - 16:15 (CET) / 09:00 - 10:15 (ET) / 07:00 - 08:15 (MT) / 22:00 (BJT)** |
 |                     |                                                              |
