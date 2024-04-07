@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Temporal Unrolling Supports Neural Physics Simulators
-date: 2024-04-08 
+date: 2024-04-17 
 inline: true
 ---
 

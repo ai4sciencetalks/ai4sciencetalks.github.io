@@ -40,7 +40,7 @@ Unrolling training trajectories over time strongly influences the inference accu
 |                     |                                                              |
 | **Slides**          | **TBA**                                                      |
 |                     |                                                              |
-| **When**            | **08.04.2024, 15:00 - 16:15 (CEST) / 10:00 - 11:15 (EST) / 08:00 - 09:15 (MST)** |
+| **When**            | **17.04.2024, 15:00 - 16:15 (CEST) / 10:00 - 11:15 (EST) / 08:00 - 09:15 (MST)** |
 |                     |                                                              |
 | **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
 |                     |                                                              |
