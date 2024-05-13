@@ -1,14 +1,11 @@
 ---
 layout: page
-title: "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations"  
+title: "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations"
 description: by Xuan Zhang and Jacob Helwig (TAMU, USA)
 img: assets/img/talks/sinenet-neural-pde-solver-xzhang.png
 importance: 1
 category: pde
-
 ---
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,33 +14,27 @@ category: pde
 </div>
 <hr>
 
-
-
-**Topic**:  [**SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations**](https://arxiv.org/abs/2403.19507)
-
-
+**Topic**: [**SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations**](https://arxiv.org/abs/2403.19507)
 
 <hr>
 
-**Abstract:**  
+**Abstract:**
 
 We consider using deep neural networks to solve time-dependent partial differential equations (PDEs), where multi-scale processing is crucial for modeling complex, time-evolving dynamics. While the U-Net architecture with skip connections is commonly used by prior studies to enable multi-scale processing, our analysis shows that the need for features to evolve across layers results in temporally misaligned features in skip connections, which limits the model's performance. To address this limitation, we propose SineNet, consisting of multiple sequentially connected U-shaped network blocks, referred to as waves. In SineNet, high-resolution features are evolved progressively through multiple stages, thereby reducing the amount of misalignment within each stage. We furthermore analyze the role of skip connections in enabling both parallel and sequential processing of multi-scale information. Our method is rigorously tested on multiple PDE datasets, including the Navier-Stokes equations and shallow water equations, showcasing the advantages of our proposed approach over conventional U-Nets with a comparable parameter budget. We further demonstrate that increasing the number of waves in SineNet while maintaining the same number of parameters leads to a monotonically improved performance. The results highlight the effectiveness of SineNet and the potential of our approach in advancing the state-of-the-art in neural PDE solver design. Our code is available as part of AIRS.
 
-
 <hr>
 
-
-|                     |                                                              |
-| ------------------- | ------------------------------------------------------------ |
-| **Topic**           | [**SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations**](https://arxiv.org/abs/2403.19507) |
-|                     |                                                              |
-| **Slides**          | **TBA**                                                      |
-|                     |                                                              |
-| **When**            | **13.05.2024, 15:00 - 16:15 (CEST) / 09:00 - 10:15 (EDT) / 08:00 - 09:15 (CDT)** |
-|                     |                                                              |
-| **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09) |
-|                     |                                                              |
-| **Video Recording** | **TBA**                                                      |
+|                     |                                                                                                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Topic**           | [**SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations**](https://arxiv.org/abs/2403.19507)                                                  |
+|                     |                                                                                                                                                                               |
+| **Slides**          | **[https://drive.google.com/file/d/1lqHYjKyjAXivxMsZVqpoGauByuJRPnB\_/view?usp=sharing](https://drive.google.com/file/d/1lqHYjKyjAXivxMsZVqpoGauByuJRPnB_/view?usp=sharing)** |
+|                     |                                                                                                                                                                               |
+| **When**            | **13.05.2024, 15:00 - 16:15 (CEST) / 09:00 - 10:15 (EDT) / 08:00 - 09:15 (CDT)**                                                                                              |
+|                     |                                                                                                                                                                               |
+| **Where**           | [**https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09**](https://us02web.zoom.us/j/85216309906?pwd=cVB0SjNDR2tYOGhIT0xqaGZ2TzlKUT09)                  |
+|                     |                                                                                                                                                                               |
+| **Video Recording** | **TBA**                                                                                                                                                                       |
 
 <hr>
 **Speaker(s):**
