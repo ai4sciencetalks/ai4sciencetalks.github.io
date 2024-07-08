@@ -28,7 +28,7 @@ Partial differential equations (PDEs) are instrumental for modeling dynamical sy
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**           | [**TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural Net**](https://arxiv.org/abs/2404.10771)                                           |
 |                     |                                                                                                                                                              |
-| **Slides**          | **TBA**                                                                                                                                                      |
+| **Slides**          | [**https://drive.google.com/file/d/1iDxyrPA-TA2PwU58x_48TtTG8JfsEa5v/view**](https://drive.google.com/file/d/1iDxyrPA-TA2PwU58x_48TtTG8JfsEa5v/view)                                                                                                                                                      |
 |                     |                                                                                                                                                              |
 | **When**            | **01.07.2024, 15:00 - 16:15 (CEST) / 09:00 - 10:15 (EDT) / 08:00 - 09:15 (CDT)**                                                                             |
 |                     |                                                                                                                                                              |
