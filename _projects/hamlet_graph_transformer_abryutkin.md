@@ -28,7 +28,7 @@ We present a novel graph transformer framework, HAMLET, designed to address the 
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**           | [**HAMLET: Graph Transformer Neural Operator for Partial Differential Equations**](https://arxiv.org/abs/2402.03541)                                         |
 |                     |                                                                                                                                                              |
-| **Slides**          | **TBA**                                                                                                                                                      |
+| **Slides**          | **[https://drive.google.com/file/d/1XC_Xvj_jN73pbaUIjQpoKjejZMObH1ZD/view](https://drive.google.com/file/d/1XC_Xvj_jN73pbaUIjQpoKjejZMObH1ZD/view)**                                                                                                                                                      |
 |                     |                                                                                                                                                              |
 | **When**            | **10.06.2024, 15:00 - 16:15 (CEST) / 09:00 - 10:15 (EDT) / 08:00 - 09:15 (CDT)**                                                                             |
 |                     |                                                                                                                                                              |
