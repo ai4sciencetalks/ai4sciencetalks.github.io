@@ -29,7 +29,7 @@ We present Clifford-Steerable Convolutional Neural Networks (CS-CNNs), a novel c
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**           | [**Clifford-Steerable Convolutional Neural Networks**](https://arxiv.org/abs/2402.14730)                                         |
 |                     |                                                                                                                                                              |
-| **Slides**          | **TBA**                                                                                                                                                      |
+| **Slides**          | **[https://drive.google.com/file/d/1DywrJ8wYuiz0Djzj1GqwrBSJwFJ31n61/view](https://drive.google.com/file/d/1DywrJ8wYuiz0Djzj1GqwrBSJwFJ31n61/view)**                                                                                                                                                      |
 |                     |                                                                                                                                                              |
 | **When**            | **15.07.2024, 15:00 - 16:15 (CEST) / 09:00 - 10:15 (EDT) / 08:00 - 09:15 (CDT)**                                                                             |
 |                     |                                                                                                                                                              |
