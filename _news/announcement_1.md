@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields"
-date: 2024-10-28
+title: "Feedback Guidance of Diffusion Models"
+date: 2026-03-17
 inline: true
 ---
 
-[Adil Kabylda will give a talk on "Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields"](projects/molecular_simulations_force_fields_adil/) :atom_symbol: 	
+[Félix Koulischer will give a talk on "Feedback Guidance of Diffusion Models"](projects/feedback_guidance_diffusion_models_felix/) 	
